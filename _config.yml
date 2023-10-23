@@ -49,7 +49,7 @@ plugins:
 collections:
   cisco:
     output: true
-    permalink: /cisco/cwcce/: title.html
+    permalink: /cisco/cwcce/:title.html
   amazon:
     output: true
-    permalink: /amazon/acac/: title.html
+    permalink: /amazon/acac/:title.html
