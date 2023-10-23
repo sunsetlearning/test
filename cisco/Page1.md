@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: lab1
 ---
 
 ## Hello World Again
